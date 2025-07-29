@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en"></html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+<meta http-equiv="X-UA-Compatible" content="ie-edge">
+</head>
+<body>
+    <a href="index.html">Home</a>
+    <h1>Eclair</h1>
+    <img src="https://unsplash.com/photos/sliced-cake-with-strawberry-on-white-ceramic-plate-tqk7XQyZ7OI"></img>
+        <h2>Description: </h2>
+        <h3>Ingredients: </h3>
+        <h4>Pastry Cream:</h4>
+            <ul>4 large egg yolks, cold or room temperature</ul>
+            <ul>3 Tablespoons (23g) cornstarch</ul>
+            <ul>2 cups (480ml) whole milk (do not use low-fat or nondairy)</ul>
+            <ul>1/2 cup (100g) granulated sugar</ul>
+            <ul>1 Tablespoon (14g) unsalted butter, softened to room temperature</ul>
+            <ul>1 teaspoon pure vanilla extract</ul>
+            <ul>seeds scraped from 1/2 vanilla bean (or extra 1/2 teaspoon vanilla extract)</ul>
+            <ul>small pinch salt</ul>
+        <h4>Choux Pastry: </h4>
+            <ul>1 batch choux pastry</ul>
+            <ul>egg wash</ul>
+        <h4>Chocolate Ganache: </h4>
+            <ul>1/2 cup (120ml) heavy cream</ul>    
+            <ul>4 ounces (113g) semi-sweet chocolate, finely chopped</ul>
+        <h3>Steps: </h3>
+            <ol>
+Make the pastry cream filling first, as it needs at least 3 hours (or up to 24 hours) to chill in the refrigerator before using. In a large heatproof bowl (preferably with a pour spout), whisk the egg yolks and cornstarch together with a fork. It may not look like it will all come together (it will be dry at first), but keep mixing until the mixture is thick and combined. If it’s not coming together at all, add a few drops of the milk you need in step 3 to bring together. Set aside at room temperature. Combine the milk and sugar in a medium saucepan over medium heat. Whisk until the sugar has dissolved, then bring to a gentle simmer. Remove from heat. Pour the warm milk and sugar mixture in a slow and steady stream into the egg yolk and cornstarch mixture, whisking the entire time. Keep those egg yolks moving so they don’t scramble. Pour the mixture back into the saucepan through a sieve, to strain out any egg yolk solids that may have formed during tempering. Return the saucepan to medium heat, and whisk constantly. The mixture will be frothy on the surface at first, and then it will begin to thicken quickly and large bubbles will begin to burst on the surface. This usually takes about 1–2 minutes. Stand back and use caution. Let the bubbles burst for about 20 seconds, or until the mixture has thickened into a custard- or pudding-like consistency. (For a more accurate test, the custard is done when the temperature reaches 185–190°F (85–88°C).) Remove from heat. Whisk in butter, vanilla extract, vanilla bean seeds, and a pinch of salt. Refrigerate for at least 3 hours, and up to 24 hours. Makes 2–2.5 cups, or about 580–610g.</ol>
+            <ol>Measure flour into a mixing bowl. Combine warm milk, 2 teaspoons sugar, and salt in a separate bowl; blend milk mixture, yeast mixture, and oil into flour. Mix well and knead until smooth. Cover, and let rise until over tripled in volume, about 3 hours.</ol>
+            <ol>Meanwhile, prepare the dough: Prepare the choux pastry dough recipe through step 4. You can use the choux pastry dough immediately for the eclairs or cover and refrigerate for up to 3 days.</ol>
+            <ol>Preheat oven to 400°F (204°C). Line two baking sheets with parchment paper. Lightly brush the parchment with water, which creates a humid environment for the pastry shells, allowing them to puff up without drying out or burning.</ol>
+            <ol>Transfer choux pastry dough to a piping bag (reusable or disposable) fitted with a large piping tip (I use Ateco #809 piping tip). Pipe 4-inch logs 3 inches apart on the prepared baking sheets. You can also use a zip-top bag and cut off the corner for easy piping. Using a water-moistened finger, smooth down any peaks or ends. Lightly brush each log with egg wash.</ol>   
+            <ol>Bake for 20 minutes, and then, keeping the pastries in the oven, reduce oven temperature to 350°F (177°C) and continue to bake for 8–12 more minutes until golden brown. Do not open the oven as the pastries cook, as cool air will prevent them from properly puffing up. Remove from the oven and transfer to a cooling rack. Allow to cool completely before filling.</ol>
+            <ol>Make the chocolate ganache: Place chopped chocolate in a bowl. Heat the cream in a small saucepan until it begins to gently simmer. (Do not let it come to a rapid boil—that’s too hot!) Pour over chocolate and let it sit for 2–3 minutes to soften the chocolate. Slowly stir until chocolate has melted and combined completely with the cream. Cool for 15 minutes, so it reaches the perfect consistency for dipping/coating. Chocolate ganache will be thin at first, but will thicken up as it cools.</ol>
+            <ol>Fill the eclairs: Transfer chilled pastry cream to a piping bag (reusable or disposable) fitted with a small-ish round or open star piping tip. I suggest Wilton piping round tip 12, which is wide enough for the filling to pipe out, but you can still nudge it inside the eclair. Use a toothpick to prick a hole in 1 end of each eclair shell. Gently nudge the piping tip into the hole. Carefully pipe pastry cream into each eclair shell, stopping when it feels full. Pipe the cream from both ends of the eclair if you notice it’s not reaching the other end. (Don’t have a piping tip for this? Slice the eclair in half horizontally, then sandwich filling inside.)</ol>
+            <ol>Top the eclairs: Dip the top of each eclair into chocolate ganache and place on a serving plate or cooling rack until ready to serve. Chocolate ganache topping sets in about an hour at room temperature or in about 30 minutes in the refrigerator.</ol>        
+            <ol>Cover and store leftover filled pastries in the refrigerator for up to 3 days. Cover and store unfilled pastry shells at room temperature for 1 day, in the refrigerator for 5 days, or freeze for up to 3 months. Thaw in the refrigerator before filling and serving.</ol>
+    <script src="index.js"></script>    
+</body>
+</html>

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en"></html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+<meta http-equiv="X-UA-Compatible" content="ie-edge">
+</head>
+<body>
+    <a href="index.html">Home</a>
+    <h1>Danish</h1>
+    <img src="https://unsplash.com/photos/brown-bread-on-white-table-fLFosDcrm28"></img>
+        <h2>Description: </h2>
+        <h3>Ingredients: </h3>
+            <ul>1 cup whole milk cold</ul>
+            <ul>2 ¼ teaspoons instant or active dry yeast</ul>
+            <ul>390 g plain flour (all purpose flour)</ul>
+            <ul>⅓ cup white granulated sugar</ul>
+            <ul>1 tsp salt</ul>
+            <ul>1 1/2 tsp salt</ul>
+            <ul>½ teaspoon salt</ul>
+            <ul>226 g unsalted butter</ul>
+            <ul>1 large egg</ul>
+        <h3>Steps: </h3>
+            <ol>If you haven't already grate the butter and place in the freezer to chill for 10 minutes. Grate it into a large bowl and don't press it down, leave it loose.</ol>
+            <ol>Warm ½ cup of the milk in the microwave or a small saucepan, just until warm to the touch (not hot) or about 40C. Too hot and you'll kill the yeast, too cold and the yeast won't bloom.</ol>
+            <ol>To the warm milk, add 1 tablespoon sugar and all the yeast and mix. Let it sit for 10 minutes to become frothy. If it doesn't look frothy, the yeast is no good and you'll need to start again with fresh yeast.</ol>
+            <ol>To the large bowl of cold butter, add the flour, remaining sugar and the salt. Give it light toss to coat. Now very, very lightly with your fingertips or with a pastry cutter, cut the butter into the flour until the pieces are about the size of a lentil. Be careful not to melt the butter. If it's warm where you are place it in the fridge for a few minutes to cool again.</ol>
+            <ol>Whisk the remaining ½ cup milk and the egg into the yeast mixture until well combined, then pour it into the dry ingredients.</ol>
+            <ol>Use a spoon or spatula to mix the ingredients together just until you have a very rough and sticky dough.</ol>
+            <ol>Cover the bowl with plastic wrap and chill in the fridge for 8-24 hours.</ol>
+            <ol>Turn the dough out onto a very lightly floured surface – you don’t want to add too much flour as it will dry out the dough. Form a simple rectangle.</ol>
+            <ol>ROLL AND FOLD: Roll it out to a large rectangle about 6mm / ¼ inch thick (about 27cm x 45cm). Fold, letter style in thirds (fold the top over the middle third, then the bottom third over that).</ol>
+            <ol>Repeat this roll and fold 3 more times for a total of 4 times, ending with a much smoother folded dough. The last roll and fold, the dough will feel much tighter – it's ok if you can't quite roll it out to 6mm / ¼ inch. Add a touch of flour if you see it sticking to the counter or your rolling pin at any point but try not to add too much.</ol>
+            <ol>Chill for 1-2 hours to relax before rolling and turning into danish pastries.</ol>
+            <ol>To turn it into baked pastries</ol>
+    <script src="index.js"></script>    
+</body>
+</html>
