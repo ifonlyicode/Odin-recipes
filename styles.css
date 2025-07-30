@@ -37,7 +37,7 @@ body {
     background-color: rgb(255, 240, 220);
     height: 100%;
     width: 850px;
-    border: 4px solid black;
+    border: 4px solid #9D5901;
     border-radius: 25px;
     margin-top: 30px;
 }
@@ -66,8 +66,8 @@ h1.fancy{
   position: relative;
   width: 850px;
   margin-left: -5px;
-  border-top: 4px solid black;
-  border-bottom: 4px solid black;
+  border-top: 4px solid #9D5901;
+  border-bottom: 4px solid #9D5901;
   
 }
 
