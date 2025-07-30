@@ -1,0 +1,76 @@
+.libre-baskerville-regular {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.libre-baskerville-bold {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.libre-baskerville-regular-italic {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.quicksand-heavy {
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: heavy;
+  font-style: normal;
+}
+
+*{
+  padding: 5px;
+}
+
+body {
+    background-color: #BA997F;
+    padding: 20px;
+}
+
+#recipe-card{
+    display: block;
+    background-color: rgb(255, 240, 220);
+    height: 100%;
+    width: 850px;
+    border: 4px solid black;
+    border-radius: 25px;
+    margin-top: 30px;
+}
+
+img {
+    width: 98%;
+    height: 90%;
+    border: 2px dotted black;
+    margin-left: 2px;
+   
+}
+
+h1 , h2 , h3, p {
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  margin-left: 5px;
+}
+
+h1.fancy{
+  font-family: "Libre Baskerville", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+#break {
+  position: relative;
+  width: 850px;
+  margin-left: -5px;
+  border-top: 4px solid black;
+  border-bottom: 4px solid black;
+  
+}
+
+ul, ol {
+  margin-left: 40px
+}
