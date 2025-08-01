@@ -19,17 +19,18 @@
 .quicksand-heavy {
   font-family: "Quicksand", sans-serif;
   font-optical-sizing: auto;
-  font-weight: heavy;
+  font-weight: bold;
   font-style: normal;
 }
 
 *{
   padding: 5px;
+  box-sizing: border-box;
 }
 
 body {
     background-color: #BA997F;
-    padding: 20px;
+    padding: 40px;
 }
 
 #recipe-card{
@@ -45,15 +46,16 @@ body {
 img {
     width: 98%;
     height: 90%;
-    border: 2px dotted black;
-    margin-left: 2px;
+    border: 2px dotted #9D5901;
+    margin-left: 10px;
    
 }
 
 h1 , h2 , h3, p {
   font-family: "Quicksand", sans-serif;
   font-optical-sizing: auto;
-  margin-left: 5px;
+  margin-left: 10px;
+  margin-bottom: 10px;
 }
 
 h1.fancy{
@@ -64,13 +66,14 @@ h1.fancy{
 
 #break {
   position: relative;
-  width: 850px;
+  width: 845px;
+  margin-top: 20px;
   margin-left: -5px;
   border-top: 4px solid #9D5901;
   border-bottom: 4px solid #9D5901;
-  
+ 
 }
 
 ul, ol {
-  margin-left: 40px
+  margin-left: 40px;
 }
